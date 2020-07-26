@@ -15,13 +15,13 @@ Avg Cl rms:  0.2242778478443576
 Avg Cl 0.005976722153589319
 Avg Cd 1.4708025041736226
 
-Copy and paste these results to other Python files.
+Copy and paste these terminal results to other Python files.
 Var_Cf.py - Coeff of Drag Variation
           - Coeff of Lift Variation
 
 Cd_Results.py - Average Coeff of Drag
 
-St_Results.py - Outdated
+St_Results.py - Outdated, unused. If you want to use this, output the Strouhal number where max magnitude occurs.
 
 A output file .csv file is printed for each number:
 
