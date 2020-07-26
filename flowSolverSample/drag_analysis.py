@@ -71,16 +71,11 @@ plt.show()
 cl_rms = np.sqrt(np.average(cl_squared))
 print("Avg Cl rms: ", cl_rms)
 
-
-
-
+#print average cl and cd values
 avg_cl = np.average(cl)
 print("Avg Cl", avg_cl)
 avg_cd = np.average(cd)
 print("Avg Cd", avg_cd)
-
-
-
 
 #create plots
 from matplotlib.pyplot import figure
