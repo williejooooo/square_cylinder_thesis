@@ -1,0 +1,14 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+Re_050 = np.genfromtxt('Re_050_St.csv', delimiter = '  ')
+print(Re_050)
+
+
+
+
+
+
+
+
+
