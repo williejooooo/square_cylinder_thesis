@@ -1,0 +1,10 @@
+Unsteady code
+Type Make to compile
+Executable is in teach
+Edit sample_case_in to set run parameters
+To run the code
+teach<sample_case_in
+you will see output on the screen.
+Data will also be saved in tst.out
+data for the flow field is saved in grid.dat and solutions.dat for tecplot 
+load them in tecplot to see the flow field and animate the time evolution.
